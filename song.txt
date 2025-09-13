@@ -1,1 +1,2 @@
 Everything else works the same — commits, merges, pulls, pushes — it’s just the branch name that changed. You can even rename a branch from master → main in older repos if you want, but there’s no technical difference.
+If you want, I can tell you how to use multiple SSH keys with GitLab so you don’t overwrite your old one at all — that way you can have a separate key for different machines/projects. Do you want me to show that?
