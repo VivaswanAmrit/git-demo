@@ -1,0 +1,1 @@
+Everything else works the same — commits, merges, pulls, pushes — it’s just the branch name that changed. You can even rename a branch from master → main in older repos if you want, but there’s no technical difference.
