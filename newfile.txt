@@ -1,1 +1,3 @@
 this is a new text file that has been created to demonstrate the revert flag.
+
+okay so this line will be removed form remote via revert.
