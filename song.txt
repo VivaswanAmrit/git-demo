@@ -3,3 +3,8 @@ If you want, I can tell you how to use multiple SSH keys with GitLab so you donâ
 you know what i am making more changes and i will use git GUI to add and commit these.
 
 write something else too.
+
+this is another paragraph and this will be part of the commit to the remote repository.
+
+-------------------------------------------------------------------------------------------
+the above dashes will not be part of the remote repo including this line.
