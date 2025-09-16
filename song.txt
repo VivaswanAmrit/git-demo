@@ -13,4 +13,8 @@ branched version line.
 
 removed the dashed lines.
 
+
 this line is exclusive to the main branch in order to create a conflict.
+
+this line is exclusive to feature branch in order to create a conflict.
+
