@@ -6,8 +6,9 @@ write something else too.
 
 this is another paragraph and this will be part of the commit to the remote repository.
 
--------------------------------------------------------------------------------------------
 the above dashes will not be part of the remote repo including this line.
 
 
 branched version line.
+
+removed the dashed lines.
